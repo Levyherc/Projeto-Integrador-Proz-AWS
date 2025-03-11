@@ -9,11 +9,12 @@
         <ul>
           <li>📌 <strong>Versão 2.0:</strong> <a href="https://levyherc.github.io/Projeto-Integrador-Proz-AWS/3-Integrador-2.0/index.html" target="_blank" rel="noopener noreferrer">Visualizar</a></li>
           <li>📌 <strong>Versão 3.0:</strong> <a href="https://levyherc.github.io/Projeto-Integrador-Proz-AWS/4-Integrador-3.0/index.html" target="_blank" rel="noopener noreferrer">Visualizar</a></li>
-          <li>🚀 <strong>Versão Final 4.0:</strong> <a href="https://levyherc.github.io/Projeto-Integrador-Proz-AWS/5-integrador-4.0-projeto-final/index.html" target="_blank" rel="noopener noreferrer">Visualizar</a></li>
+          <li>🚀 <strong>Versão Final 4.0 (interface):</strong> <a href="https://levyherc.github.io/Projeto-Integrador-Proz-AWS/5-integrador-4.0-projeto-final/index.html" target="_blank" rel="noopener noreferrer">Visualizar</a></li>
         </ul>
+        <br>
       </li>
       <li>
-        <strong>🚀 Funcionalidades</strong>
+        <strong>🚀 Funcionalidades a serem implementadas</strong>
         <ul>
           <li><strong>🔍 Pesquisa de Mídia:</strong> Permite buscar por filmes, séries e programas de TV.</li>
           <li><strong>🎶 Trilhas Sonoras:</strong> Exibe músicas apresentadas em cada mídia.</li>
@@ -21,14 +22,17 @@
           <li><strong>🎤 Perfis de Artistas:</strong> Informações sobre os artistas das músicas listadas.</li>
           <li><strong>🎧 Integração com Streaming:</strong> Links diretos para ouvir as músicas no Spotify e Apple Music.</li>
         </ul>
+        <br>
       </li>
       <li><strong>🛠️ Tecnologias utilizadas:</strong> HTML, CSS, JavaScript, Node.js, Express, MongoDB, APIs de música e streaming</li>
+      <br>
       <li>
         <strong>💻 Layout e Desenvolvimento:</strong>
         <ul>
           <li>🔹 O layout inicial foi criado em WordPress para facilitar a visualização e transição para código manual.</li>
           <li>🔹 Refinamento do design com HTML, CSS e JavaScript.</li>
         </ul>
+        <br>
       </li>
       <li><strong>🔗 Acesse a versão final:</strong> <a href="https://levyherc.github.io/Projeto-Integrador-Proz-AWS/5-integrador-4.0-projeto-final/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
     </ul>
