@@ -32,6 +32,7 @@
       </li>
       <li><strong>🔗 Acesse a versão final:</strong> <a href="https://levyherc.github.io/Projeto-Integrador-Proz-AWS/5-integrador-4.0-projeto-final/index.html" target="_blank" rel="noopener noreferrer">Abrir projeto</a></li>
     </ul>
+    <br>
   </li>
   <img src="https://github.com/user-attachments/assets/5ba35b1f-62b0-4e5f-b248-43c9814d0fcc" alt="Projeto Integrador Proz AWS" width="600">
 </ul>
