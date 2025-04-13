@@ -32,8 +32,8 @@ O projeto passou por diversas etapas de desenvolvimento até alcançar sua vers�
 
 - **Front-end:** HTML, CSS, JavaScript  
 - **Back-end:** Node.js, Express  
-- **Banco de Dados:** MongoDB  
-- **APIs:** Integrações com APIs de música e plataformas de streaming
+- **Banco de Dados:** MongoDB (implantação para versões futuras)
+- **APIs:** Integrações com APIs de música e plataformas de streaming (implantação para versões futuras)
 
 ---
 
